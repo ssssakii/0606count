@@ -13,6 +13,7 @@
 		84AF4F961B22BAD600D5E7E3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84AF4F951B22BAD600D5E7E3 /* Images.xcassets */; };
 		84AF4F991B22BAD600D5E7E3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84AF4F971B22BAD600D5E7E3 /* LaunchScreen.xib */; };
 		84AF4FA51B22BAD600D5E7E3 /* Count_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AF4FA41B22BAD600D5E7E3 /* Count_testTests.swift */; };
+		84AF4FAF1B22BC6600D5E7E3 /* 風船.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84AF4FAE1B22BC6500D5E7E3 /* 風船.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		84AF4F9E1B22BAD600D5E7E3 /* Count_testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count_testTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84AF4FA31B22BAD600D5E7E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84AF4FA41B22BAD600D5E7E3 /* Count_testTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count_testTests.swift; sourceTree = "<group>"; };
+		84AF4FAE1B22BC6500D5E7E3 /* 風船.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "風船.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				84AF4F8E1B22BAD600D5E7E3 /* AppDelegate.swift */,
 				84AF4F901B22BAD600D5E7E3 /* ViewController.swift */,
 				84AF4F921B22BAD600D5E7E3 /* Main.storyboard */,
+				84AF4FAE1B22BC6500D5E7E3 /* 風船.jpg */,
 				84AF4F951B22BAD600D5E7E3 /* Images.xcassets */,
 				84AF4F971B22BAD600D5E7E3 /* LaunchScreen.xib */,
 				84AF4F8C1B22BAD600D5E7E3 /* Supporting Files */,
@@ -193,6 +196,7 @@
 			files = (
 				84AF4F941B22BAD600D5E7E3 /* Main.storyboard in Resources */,
 				84AF4F991B22BAD600D5E7E3 /* LaunchScreen.xib in Resources */,
+				84AF4FAF1B22BC6600D5E7E3 /* 風船.jpg in Resources */,
 				84AF4F961B22BAD600D5E7E3 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
